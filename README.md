@@ -7,4 +7,4 @@ Sample image source: https://pngfre.com/cat-png/transparent-cat-by-pngfre-56-1/
 ## Usage
 ``python3 img_segmentator.py``
 
-Must have sklearn and Matplotlib installed
+Must have sklearn, OpenCV and Matplotlib installed
